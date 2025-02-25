@@ -2,6 +2,13 @@
  
 **Business Analysis Project for Jar**
 
+**Author**
+
+-   **Name:** Chinmay Raut
+
+-   **LinkedIn:** [Chinmay
+    Raut](https://www.linkedin.com/in/chinmayraut276/)
+    
 **Project Overview**
 
 This project is a business analysis assignment for the Business Analyst
@@ -112,12 +119,7 @@ For this project, my approach was as follows:
     analyzed their sales and profitability to recommend areas for
     improvement.
 
-**Author**
 
--   **Name:** Chinmay Raut
-
--   **LinkedIn:** [Chinmay
-    Raut](https://www.linkedin.com/in/chinmayraut276/)
 
 **Analysis and Insights**
 
